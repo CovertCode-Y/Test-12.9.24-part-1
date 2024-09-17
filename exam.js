@@ -48,7 +48,7 @@ const Mission3 = (arr) => {
 
 
 
-const Mission5 = (num) => {
+const Mission6 = (num) => {
     let arr = [0, 1];
     for (let i = 0; i < num; i++) {
         arr.push(arr[i] + arr[i + 1]);
@@ -65,5 +65,5 @@ module.exports = {
     Mission1,
     Mission2,
     Mission3,
-    Mission5,
+    Mission6,
 }
