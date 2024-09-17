@@ -56,7 +56,7 @@ const Mission6 = (num) => {
     return arr[num];
 }
 
-// console.log(Mission5(10));
+// console.log(Mission6(10));
 
 
 
